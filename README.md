@@ -1,1 +1,2 @@
-# Reddit_Stock_Market_Analysis
+# Reddit Stock Market Sentiment Analysis of "NVDA" 
+
