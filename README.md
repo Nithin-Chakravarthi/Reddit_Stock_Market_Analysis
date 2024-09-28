@@ -82,13 +82,18 @@ Sentiment analysis is the process of detecting positive or negative sentiment in
  
     <details>
     <summary>How to extract the comments from a Reddit subreddit post</summary>
+    
+      ## Create a submission object 
+      ![](img/![Reddit_scrapper](https://github.com/user-attachments/assets/ed3ba9ee-23a8-4426-ae51-0fbba96c9937)
+)
+        (Submission ID is an assigned "ID" for a specific post on Reddit)
+  
+      In order to extract the comments from a subreddit post, you'll need to **create a submission object** and in this script-- we are looking for specific posts: the **top 30 "hot" popular posts in r/WallStreetBets, that was written by a Reddit user, and also mentions $NVDA.** Subreddits can be filtered in many different ways; you can also choose to display your desired number of posts by changing ```(limit=30)``` that are ["new", "hot", "top", etc.](https://praw.readthedocs.io/en/latest/code_overview/models/subreddit.html)
+  
 
   
      
-  
-      *
-  
-   
+     
   
   
       
