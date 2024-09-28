@@ -8,8 +8,7 @@
 * [Overview](#overview)
 * [Required Libraries](#required-library)
 * [Methodology](#methodology)
-* [Results](#results)
-* [Summary](#summary)
+
 
 
 
@@ -42,7 +41,7 @@ Sentiment analysis is the process of detecting positive or negative sentiment in
 
 ## Methodology
 
-### 1. Reddit Dataset:
+###  Reddit Dataset:
 * [Reddit API](https://www.reddit.com/dev/api/)
   <details>
   <summary>How to set up a Python API Wrapper to obtain data</summary>
@@ -78,29 +77,7 @@ Sentiment analysis is the process of detecting positive or negative sentiment in
     
   </details>
   
- * [Scrape data from Reddit using the Python Reddit API Wrapper(PRAW)](https://praw.readthedocs.io/en/latest/getting_started/authentication.html#script-application)
  
-    <details>
-    <summary>How to extract the comments from a Reddit subreddit post</summary>
-    
-      ## Create a submission object 
-      ![]([Reddit_scrapper](https://github.com/user-attachments/assets/ed3ba9ee-23a8-4426-ae51-0fbba96c9937)
-)
-        
-  
-      
-  
-
-  
-     
-     
-  
-  
-      
-      
-
-  
-    </details>
     
  
 
